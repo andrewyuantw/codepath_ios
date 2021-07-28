@@ -1,4 +1,4 @@
-# Pre-work - *Tipsy*
+# Pre-work - *Tip Calculator*
 
 **Tipsy** is a tip calculator application for iOS.
 
