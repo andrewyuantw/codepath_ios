@@ -15,26 +15,27 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] UI animations
+* [X] Remembering the bill amount across app restarts (if <10mins)
+* [X] Using locale-specific currency and currency thousands separators.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] None so far...
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/M3qRw22.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/GDMKPMA.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/kSQrbty.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/6dGoxXM.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had some initial trouble linking my Github account with Xcode, but the app development so far has been fun. I will look to add the optional features in the coming days.
+I had some initial trouble linking my Github account with Xcode, but the app development so far has been fun. I also had some trouble referencing variables in the ViewController from the AppDelegate but I was able to fix that as well.
 
 ## License
 
