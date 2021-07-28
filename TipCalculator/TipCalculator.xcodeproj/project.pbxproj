@@ -15,6 +15,8 @@
 		094D3F522697E24900B998BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 094D3F502697E24900B998BD /* LaunchScreen.storyboard */; };
 		094D3F5D2697E24A00B998BD /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094D3F5C2697E24A00B998BD /* TipCalculatorTests.swift */; };
 		094D3F682697E24A00B998BD /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094D3F672697E24A00B998BD /* TipCalculatorUITests.swift */; };
+		094D3F7626A7AF7000B998BD /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094D3F7526A7AF7000B998BD /* SettingsViewController.swift */; };
+		094D3F7A26AF4BE800B998BD /* cash.png in Resources */ = {isa = PBXBuildFile; fileRef = 094D3F7926AF4BE800B998BD /* cash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		094D3F632697E24A00B998BD /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		094D3F672697E24A00B998BD /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		094D3F692697E24A00B998BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		094D3F7526A7AF7000B998BD /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		094D3F7926AF4BE800B998BD /* cash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cash.png; path = ../../../Downloads/cash.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,12 +104,14 @@
 			isa = PBXGroup;
 			children = (
 				094D3F452697E24800B998BD /* AppDelegate.swift */,
+				094D3F7526A7AF7000B998BD /* SettingsViewController.swift */,
 				094D3F472697E24800B998BD /* SceneDelegate.swift */,
 				094D3F492697E24800B998BD /* ViewController.swift */,
 				094D3F4B2697E24800B998BD /* Main.storyboard */,
 				094D3F4E2697E24900B998BD /* Assets.xcassets */,
 				094D3F502697E24900B998BD /* LaunchScreen.storyboard */,
 				094D3F532697E24900B998BD /* Info.plist */,
+				094D3F7926AF4BE800B998BD /* cash.png */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
@@ -233,6 +239,7 @@
 			files = (
 				094D3F522697E24900B998BD /* LaunchScreen.storyboard in Resources */,
 				094D3F4F2697E24900B998BD /* Assets.xcassets in Resources */,
+				094D3F7A26AF4BE800B998BD /* cash.png in Resources */,
 				094D3F4D2697E24800B998BD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +268,7 @@
 				094D3F4A2697E24800B998BD /* ViewController.swift in Sources */,
 				094D3F462697E24800B998BD /* AppDelegate.swift in Sources */,
 				094D3F482697E24800B998BD /* SceneDelegate.swift in Sources */,
+				094D3F7626A7AF7000B998BD /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +445,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 82UD3TK252;
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -455,6 +464,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 82UD3TK252;
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
