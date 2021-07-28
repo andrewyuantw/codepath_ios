@@ -25,11 +25,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/GDMKPMA.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<p float="left">
 
-<img src='https://i.imgur.com/kSQrbty.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+    <img src='https://i.imgur.com/GDMKPMA.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-<img src='https://i.imgur.com/6dGoxXM.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+    <img src='https://i.imgur.com/kSQrbty.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+    <img src='https://i.imgur.com/6dGoxXM.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+</p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
